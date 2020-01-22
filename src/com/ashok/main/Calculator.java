@@ -43,20 +43,12 @@ public class Calculator  {
         }
     }
 
-    public float addition(float firstNo, float secondNo){
-        return firstNo + secondNo;
-    }
+    public float addition(float firstNo, float secondNo){ return firstNo + secondNo; }
 
-    public float substraction(float firstNo, float secondNo){
-        return firstNo - secondNo;
-    }
+    public float substraction(float firstNo, float secondNo){ return firstNo - secondNo; }
 
-    public float multiplication(float firstNo, float secondNo){
-        return firstNo * secondNo;
-    }
+    public float multiplication(float firstNo, float secondNo){ return firstNo * secondNo; }
 
-    public float division(float firstNo, float secondNo){
-        return firstNo / secondNo;
-    }
+    public float division(float firstNo, float secondNo){ return firstNo / secondNo; }
 
 }
